@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="epgmaker" generator-info-url="http://www.epgmaker.com">
-<channel id="moldova1.md">
- <display-name lang="en">moldova1.md</display-name>
-</channel>
-<programme start="20230609210000 000" stop="20230609220000 000" channel="moldova1.md">
- <title lang="en">Mesager</title>
- <desc lang="en"></desc>
-</programme>
